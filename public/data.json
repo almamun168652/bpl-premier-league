@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "name": "Mushfiqur Rahim",
+        "image": "https://i.ibb.co/RbP5nKM/mushfiqur-rahim.webp",
+        "age": 34,
+        "salary": 85000
+    },
+    {
+        "id": "2",
+        "name": "Shakib Al Hasan",
+        "image": "https://i.ibb.co/6Z7m9Z4/shakib-al-hasan.webp",
+        "age": 34,
+        "salary": 90000
+    },
+    {
+        "id": "3",
+        "name": "Tamim Iqbal",
+        "image": "https://i.ibb.co/KqN86Gd/tamim-iqbal.webp",
+        "age": 32,
+        "salary": 80000
+    },
+    {
+        "id": "4",
+        "name": "Mashrafi",
+        "image": "https://i.ibb.co/q1F8rtZ/mashrafe-mortaza.webp",
+        "age": 26,
+        "salary": 75000
+    },
+    {
+        "id": "5",
+        "name": "Shahid Arfidi",
+        "image": "https://i.ibb.co/DDByfR5/shahid-afridi.webp",
+        "age": 35,
+        "salary": 82000
+    },
+    {
+        "id": "6",
+        "name": "Hashim Amia",
+        "image": "https://i.ibb.co/m5mDW99/hashim-amla.webp",
+        "age": 27,
+        "salary": 72000
+    }
+]
